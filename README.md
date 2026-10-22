@@ -28,6 +28,8 @@ SQL	Filtering, aggregation, segmentation, and default-rate analysis
 Microsoft Power BI	Interactive dashboards and visualizations
 DAX	Measures, KPI calculations, and reporting logic
 GitHub	Version control and project documentation
+
+
 Project Structure
 Loan-Default-Risk-Analysis/
 ├── README.md
@@ -40,6 +42,8 @@ Loan-Default-Risk-Analysis/
     ├── data_validation.sql
     ├── default_rate_analysis.sql
     └── manual_review_logic.sql
+
+    
 Dashboard Preview
 Page 1 — Manual Review Dashboard
 This dashboard focuses on applications that may require additional investigation.

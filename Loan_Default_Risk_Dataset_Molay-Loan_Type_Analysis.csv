@@ -1,0 +1,7 @@
+Loan Type,Applications,Defaults,Default Rate
+Auto Loan,917,180,19.63%
+Business Loan,858,175,20.40%
+Education Loan,593,116,19.56%
+Personal Loan,1539,324,21.05%
+Home Loan,1093,228,20.86%
+Total,5000,1023,20.46%

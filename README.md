@@ -174,3 +174,14 @@ Molay Mohanta
 Computer Science and Engineering Graduate
 
 Areas of Interest: Data Analytics, Business Analytics, SQL, Power BI, and Data-Driven Decision Making.
+
+Dashboard Preview
+
+Page 1: Loan Risk Analysis — Manual Review Dashboard
+
+![Loan Risk Analysis Dashboard](page1_Loan_Risk_Analysis.png)
+
+Page 2: Default Risk Analysis
+
+![Default Risk Analysis Dashboard](page2_default_Risk_analysis.png)
+

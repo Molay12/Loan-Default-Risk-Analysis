@@ -72,7 +72,7 @@ Key visualizations:
 - Default Rate by Income Bracket
 - Default Rate by Loan Type
 - Default Rate by Employment History
-- Default Rate by Geography
+- Default Rate by Region
 
 Business purpose: Compare historical default patterns across customer segments and identify areas that may warrant closer investigation.
 
